@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "326eca52-4eef-42ad-bda4-2c6e56423f29",
+    "name": "Vislage",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "3b3bfb70-59e5-4160-816d-e4a5c9742ba2",
+    "name": "MackKnuckey",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "7e333e90-186e-4e5a-be73-ae1b8c8459d6",
+    "name": "Yupitsu",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
