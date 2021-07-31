@@ -1,5 +1,5 @@
 # A Very Average 1.16.5 Server
-One day this could be great
+One day this might be good
 ## Why does this exist
 I have made this so that anyone can copy this all to their desktop and make their own changes to the server, if you do want to make a change (like adding a plugin or change a setting) then see the 'I want to be helpful' subheader.
 ## Before Reading Further!!
