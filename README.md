@@ -7,8 +7,20 @@ This collection of server files does not include the actual 'paper' file used to
 
 Paper Download Link : https://papermc.io/downloads#Paper-1.16
 
+The default port is set to *25567*, as such if you were to connect to this using the 'Direct Connect' feature in Minecraft you would need to write
+
+'''bash
+localhost:25567
+'''
+
 ## I want to be helpful
 So you've had it this far huh.
+
+If you want to make a large change AKA changes to server.properties or anything you deem quite important then open an issue first
+
+If you have tested the change and it all seems to work then you can add a pull request
+
+## Installation
 
 This should be applicable for both windows and mac
 
