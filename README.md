@@ -9,7 +9,7 @@ Paper Download Link : https://papermc.io/downloads#Paper-1.16
 
 The default port is set to *25567*, as such if you were to connect to this using the 'Direct Connect' feature in Minecraft you would need to write
 
-```bash
+```ini
 localhost:25567
 ```
 
